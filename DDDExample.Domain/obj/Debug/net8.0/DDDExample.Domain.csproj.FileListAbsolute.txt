@@ -9,3 +9,15 @@ C:\Users\dark0\OneDrive\Desktop\MongoDB\DDDExample.Domain\obj\Debug\net8.0\DDDEx
 C:\Users\dark0\OneDrive\Desktop\MongoDB\DDDExample.Domain\obj\Debug\net8.0\refint\DDDExample.Domain.dll
 C:\Users\dark0\OneDrive\Desktop\MongoDB\DDDExample.Domain\obj\Debug\net8.0\DDDExample.Domain.pdb
 C:\Users\dark0\OneDrive\Desktop\MongoDB\DDDExample.Domain\obj\Debug\net8.0\ref\DDDExample.Domain.dll
+C:\Users\bmedr\Desktop\Trabajo\MongoDB\DDDExample.Domain\bin\Debug\net8.0\DDDExample.Domain.deps.json
+C:\Users\bmedr\Desktop\Trabajo\MongoDB\DDDExample.Domain\bin\Debug\net8.0\DDDExample.Domain.dll
+C:\Users\bmedr\Desktop\Trabajo\MongoDB\DDDExample.Domain\bin\Debug\net8.0\DDDExample.Domain.pdb
+C:\Users\bmedr\Desktop\Trabajo\MongoDB\DDDExample.Domain\obj\Debug\net8.0\DDDExample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmedr\Desktop\Trabajo\MongoDB\DDDExample.Domain\obj\Debug\net8.0\DDDExample.Domain.AssemblyInfoInputs.cache
+C:\Users\bmedr\Desktop\Trabajo\MongoDB\DDDExample.Domain\obj\Debug\net8.0\DDDExample.Domain.AssemblyInfo.cs
+C:\Users\bmedr\Desktop\Trabajo\MongoDB\DDDExample.Domain\obj\Debug\net8.0\DDDExample.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bmedr\Desktop\Trabajo\MongoDB\DDDExample.Domain\obj\Debug\net8.0\DDDExample.Domain.sourcelink.json
+C:\Users\bmedr\Desktop\Trabajo\MongoDB\DDDExample.Domain\obj\Debug\net8.0\DDDExample.Domain.dll
+C:\Users\bmedr\Desktop\Trabajo\MongoDB\DDDExample.Domain\obj\Debug\net8.0\refint\DDDExample.Domain.dll
+C:\Users\bmedr\Desktop\Trabajo\MongoDB\DDDExample.Domain\obj\Debug\net8.0\DDDExample.Domain.pdb
+C:\Users\bmedr\Desktop\Trabajo\MongoDB\DDDExample.Domain\obj\Debug\net8.0\ref\DDDExample.Domain.dll

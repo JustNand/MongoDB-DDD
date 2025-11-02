@@ -10,6 +10,7 @@
         "dependencies": {
           "DDDExample.Application": "1.0.0",
           "DDDExample.Infrastructure": "1.0.0",
+          "MongoDB.Driver": "3.5.0",
           "Swashbuckle.AspNetCore": "6.6.2"
         },
         "runtime": {
@@ -219,7 +220,7 @@
         },
         "runtime": {
           "DDDExample.Application.dll": {
-            "assemblyVersion": "1.0.0.0",
+            "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -227,7 +228,7 @@
       "DDDExample.Domain/1.0.0": {
         "runtime": {
           "DDDExample.Domain.dll": {
-            "assemblyVersion": "1.0.0.0",
+            "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -239,7 +240,7 @@
         },
         "runtime": {
           "DDDExample.Infrastructure.dll": {
-            "assemblyVersion": "1.0.0.0",
+            "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }

@@ -10,13 +10,19 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Options;
 using Microsoft.OpenApi.Models;
 using MongoDB.Driver;
+using MongoDB.Bson;
+using MongoDB.Bson.Serialization;
+using MongoDB.Bson.Serialization.Serializers;
+
 
 var builder = WebApplication.CreateBuilder(args);
+// Configurar serializaciÃ³n de GUID para MongoDB
+BsonSerializer.RegisterSerializer(new GuidSerializer(GuidRepresentation.Standard));
 
 // Agregar controladores
 builder.Services.AddControllers();
 
-// Configuración de MongoDB
+// Configuraciï¿½n de MongoDB
 builder.Services.Configure<MongoDBSettings>(
     builder.Configuration.GetSection("MongoDB"));
 
@@ -42,7 +48,7 @@ builder.Services.AddAutoMapper(cfg =>
     cfg.AddProfile<MappingProfile>();
 });
 
-// Registrar servicios de aplicación y repositorios
+// Registrar servicios de aplicaciï¿½n y repositorios
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<MongoDBContext<Product>>(provider =>
@@ -50,7 +56,7 @@ builder.Services.AddScoped<MongoDBContext<Product>>(provider =>
         provider.GetRequiredService<IMongoDatabase>(),
         "Products"));
 
-// Configuración de Swagger
+// Configuraciï¿½n de Swagger
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
 {
@@ -64,7 +70,7 @@ builder.Services.AddSwaggerGen(c =>
 
 var app = builder.Build();
 
-// Configuración de Swagger solo en desarrollo
+// Configuraciï¿½n de Swagger solo en desarrollo
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();

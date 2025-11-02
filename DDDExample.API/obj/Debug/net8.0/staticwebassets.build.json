@@ -1,1 +1,11 @@
-{"Version":1,"Hash":"vuBEl/+QiQB6P7MI46INt3HL8BxJiXIc7cYuIO8Edqc=","Source":"DDDExample.API","BasePath":"_content/DDDExample.API","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
+{
+  "Version": 1,
+  "Hash": "yZVQ1gDCsgVgC2g0bB/5QfYlcV+hWyVf2haqyyc46+A=",
+  "Source": "DDDExample.API",
+  "BasePath": "_content/DDDExample.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
