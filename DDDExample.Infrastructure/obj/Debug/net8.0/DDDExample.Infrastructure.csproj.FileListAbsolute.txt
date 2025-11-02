@@ -1,0 +1,15 @@
+C:\Users\dark0\OneDrive\Desktop\MongoDB\DDDExample.Infrastructure\bin\Debug\net8.0\DDDExample.Infrastructure.deps.json
+C:\Users\dark0\OneDrive\Desktop\MongoDB\DDDExample.Infrastructure\bin\Debug\net8.0\DDDExample.Infrastructure.dll
+C:\Users\dark0\OneDrive\Desktop\MongoDB\DDDExample.Infrastructure\bin\Debug\net8.0\DDDExample.Infrastructure.pdb
+C:\Users\dark0\OneDrive\Desktop\MongoDB\DDDExample.Infrastructure\bin\Debug\net8.0\DDDExample.Domain.dll
+C:\Users\dark0\OneDrive\Desktop\MongoDB\DDDExample.Infrastructure\bin\Debug\net8.0\DDDExample.Domain.pdb
+C:\Users\dark0\OneDrive\Desktop\MongoDB\DDDExample.Infrastructure\obj\Debug\net8.0\DDDExample.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\dark0\OneDrive\Desktop\MongoDB\DDDExample.Infrastructure\obj\Debug\net8.0\DDDExample.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dark0\OneDrive\Desktop\MongoDB\DDDExample.Infrastructure\obj\Debug\net8.0\DDDExample.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\dark0\OneDrive\Desktop\MongoDB\DDDExample.Infrastructure\obj\Debug\net8.0\DDDExample.Infrastructure.AssemblyInfo.cs
+C:\Users\dark0\OneDrive\Desktop\MongoDB\DDDExample.Infrastructure\obj\Debug\net8.0\DDDExample.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\dark0\OneDrive\Desktop\MongoDB\DDDExample.Infrastructure\obj\Debug\net8.0\DDDExamp.BF0ADCC9.Up2Date
+C:\Users\dark0\OneDrive\Desktop\MongoDB\DDDExample.Infrastructure\obj\Debug\net8.0\DDDExample.Infrastructure.dll
+C:\Users\dark0\OneDrive\Desktop\MongoDB\DDDExample.Infrastructure\obj\Debug\net8.0\refint\DDDExample.Infrastructure.dll
+C:\Users\dark0\OneDrive\Desktop\MongoDB\DDDExample.Infrastructure\obj\Debug\net8.0\DDDExample.Infrastructure.pdb
+C:\Users\dark0\OneDrive\Desktop\MongoDB\DDDExample.Infrastructure\obj\Debug\net8.0\ref\DDDExample.Infrastructure.dll

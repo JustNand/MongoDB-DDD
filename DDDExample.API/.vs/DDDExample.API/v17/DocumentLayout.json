@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dark0\\OneDrive\\Desktop\\MongoDB\\DDDExample.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F98EB9-F73B-4B1F-A6EB-89CE0A3FBC35}|DDDExample.API.csproj|c:\\users\\dark0\\onedrive\\desktop\\mongodb\\dddexample.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0F98EB9-F73B-4B1F-A6EB-89CE0A3FBC35}|DDDExample.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F98EB9-F73B-4B1F-A6EB-89CE0A3FBC35}|DDDExample.API.csproj|c:\\users\\dark0\\onedrive\\desktop\\mongodb\\dddexample.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F98EB9-F73B-4B1F-A6EB-89CE0A3FBC35}|DDDExample.API.csproj|solutionrelative:dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F98EB9-F73B-4B1F-A6EB-89CE0A3FBC35}|DDDExample.API.csproj|c:\\users\\dark0\\onedrive\\desktop\\mongodb\\dddexample.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F98EB9-F73B-4B1F-A6EB-89CE0A3FBC35}|DDDExample.API.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F98EB9-F73B-4B1F-A6EB-89CE0A3FBC35}|DDDExample.API.csproj|c:\\users\\dark0\\onedrive\\desktop\\mongodb\\dddexample.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F98EB9-F73B-4B1F-A6EB-89CE0A3FBC35}|DDDExample.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2AE951-CBE2-42DE-B761-85001B04819D}|..\\DDDExample.Application\\DDDExample.Application.csproj|c:\\users\\dark0\\onedrive\\desktop\\mongodb\\dddexample.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2AE951-CBE2-42DE-B761-85001B04819D}|..\\DDDExample.Application\\DDDExample.Application.csproj|c:\\users\\dark0\\onedrive\\desktop\\mongodb\\dddexample.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2AE951-CBE2-42DE-B761-85001B04819D}|..\\DDDExample.Application\\DDDExample.Application.csproj|c:\\users\\dark0\\onedrive\\desktop\\mongodb\\dddexample.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2AE951-CBE2-42DE-B761-85001B04819D}|..\\DDDExample.Application\\DDDExample.Application.csproj|c:\\users\\dark0\\onedrive\\desktop\\mongodb\\dddexample.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AA56E6-39E1-45C2-B188-A0AB39A60F91}|..\\DDDExample.Domain\\DDDExample.Domain.csproj|c:\\users\\dark0\\onedrive\\desktop\\mongodb\\dddexample.domain\\common\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AA56E6-39E1-45C2-B188-A0AB39A60F91}|..\\DDDExample.Domain\\DDDExample.Domain.csproj|c:\\users\\dark0\\onedrive\\desktop\\mongodb\\dddexample.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AA56E6-39E1-45C2-B188-A0AB39A60F91}|..\\DDDExample.Domain\\DDDExample.Domain.csproj|c:\\users\\dark0\\onedrive\\desktop\\mongodb\\dddexample.domain\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D114399-8C34-4314-8D6F-8DF7C7E57F84}|..\\DDDExample.Infrastructure\\DDDExample.Infrastructure.csproj|c:\\users\\dark0\\onedrive\\desktop\\mongodb\\dddexample.infrastructure\\persistence\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D114399-8C34-4314-8D6F-8DF7C7E57F84}|..\\DDDExample.Infrastructure\\DDDExample.Infrastructure.csproj|c:\\users\\dark0\\onedrive\\desktop\\mongodb\\dddexample.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dark0\\OneDrive\\Desktop\\MongoDB\\DDDExample.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\dark0\\OneDrive\\Desktop\\MongoDB\\DDDExample.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-02T02:50:36.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\dark0\\OneDrive\\Desktop\\MongoDB\\DDDExample.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\dark0\\OneDrive\\Desktop\\MongoDB\\DDDExample.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T02:49:42.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\dark0\\OneDrive\\Desktop\\MongoDB\\DDDExample.Application\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "..\\DDDExample.Application\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\dark0\\OneDrive\\Desktop\\MongoDB\\DDDExample.Application\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "..\\DDDExample.Application\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T02:49:23.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\dark0\\OneDrive\\Desktop\\MongoDB\\DDDExample.Application\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "..\\DDDExample.Application\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\dark0\\OneDrive\\Desktop\\MongoDB\\DDDExample.Application\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "..\\DDDExample.Application\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T02:49:20.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dark0\\OneDrive\\Desktop\\MongoDB\\DDDExample.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dark0\\OneDrive\\Desktop\\MongoDB\\DDDExample.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T02:43:10.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\dark0\\OneDrive\\Desktop\\MongoDB\\DDDExample.API\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\dark0\\OneDrive\\Desktop\\MongoDB\\DDDExample.API\\DependencyInjection.cs",
+              "RelativeToolTip": "DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T02:43:18.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\dark0\\OneDrive\\Desktop\\MongoDB\\DDDExample.Application\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "..\\DDDExample.Application\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\dark0\\OneDrive\\Desktop\\MongoDB\\DDDExample.Application\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "..\\DDDExample.Application\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T02:49:18.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\dark0\\OneDrive\\Desktop\\MongoDB\\DDDExample.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\DDDExample.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\dark0\\OneDrive\\Desktop\\MongoDB\\DDDExample.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "..\\DDDExample.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T02:49:15.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\dark0\\OneDrive\\Desktop\\MongoDB\\DDDExample.Domain\\Common\\Entity.cs",
+              "RelativeDocumentMoniker": "..\\DDDExample.Domain\\Common\\Entity.cs",
+              "ToolTip": "C:\\Users\\dark0\\OneDrive\\Desktop\\MongoDB\\DDDExample.Domain\\Common\\Entity.cs",
+              "RelativeToolTip": "..\\DDDExample.Domain\\Common\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T02:49:09.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\dark0\\OneDrive\\Desktop\\MongoDB\\DDDExample.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "..\\DDDExample.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\dark0\\OneDrive\\Desktop\\MongoDB\\DDDExample.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "..\\DDDExample.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T02:49:06.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dark0\\OneDrive\\Desktop\\MongoDB\\DDDExample.Domain\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\DDDExample.Domain\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\dark0\\OneDrive\\Desktop\\MongoDB\\DDDExample.Domain\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "..\\DDDExample.Domain\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T02:49:01.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MongoDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\dark0\\OneDrive\\Desktop\\MongoDB\\DDDExample.Infrastructure\\Persistence\\MongoDBContext.cs",
+              "RelativeDocumentMoniker": "..\\DDDExample.Infrastructure\\Persistence\\MongoDBContext.cs",
+              "ToolTip": "C:\\Users\\dark0\\OneDrive\\Desktop\\MongoDB\\DDDExample.Infrastructure\\Persistence\\MongoDBContext.cs",
+              "RelativeToolTip": "..\\DDDExample.Infrastructure\\Persistence\\MongoDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T02:48:55.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dark0\\OneDrive\\Desktop\\MongoDB\\DDDExample.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\DDDExample.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\dark0\\OneDrive\\Desktop\\MongoDB\\DDDExample.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "..\\DDDExample.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T02:48:53.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
